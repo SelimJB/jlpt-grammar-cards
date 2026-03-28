@@ -1,0 +1,131 @@
+grammar_point;meaning;level;lesson_number;lesson_title;bunpro_url
+だ;To be, Is;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%A0
+です;To be, Is;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%99
+は;As for... (Highlights sentence topic);N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%AF
+も;Also, Too, As well, Even, Either, Neither;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%82%82
+これ;This;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%93%E3%82%8C
+それ;That;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C
+あれ;That (over there);N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%82%E3%82%8C
+良（い）い;い-Adjective meaning 'good';N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%84%E3%81%84
+の;Indicates possession;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%AE
+い-Adjective;Adjectives ending in い;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%84-adjectives
+な-Adjective;Adjectives that are also nouns;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%AA-adjectives
+か;Question marking particle;N5;1;Things that Are Crucial to Make a Natural -Interesting- Sentence;https://bunpro.jp/grammar_points/%E3%81%8B
+が;Subject marking particle, Identification particle;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%8C
+よ;Emphasis (Sentence ending particle);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%82%88
+ね;Isn't it?, Right? (Sentence ending particle);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%AD
+る-Verb (Dictionary);る + ます (Ichidan Verbs);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%82%8B-Verbs
+う-Verb (Dictionary);う + ます (Godan Verbs);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%86-Verbs
+を;Object marking particle;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%82%92
+ます;Polite Verb Endings;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/polite-verb-endings
+る-Verb (Negative);Will/Does/Do (not);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%82%8Bverb-%E3%81%AA%E3%81%84
+う-Verb (Negative);Will/Does/Do (not);N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%86verb--%E3%81%AA%E3%81%84
+と;And;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%A8-and
+ここ;Here, This place;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%93%E3%81%93
+そこ;There, That place;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%93
+あそこ;Over there;N5;2;Things that Are Necessary to Use Basic Types of Verbs;https://bunpro.jp/grammar_points/%E3%81%82%E3%81%9D%E3%81%93
+で;At, In;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%A7
+に;In, At, To, For, On;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%AB
+か;Or;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%8B-or
+と;With;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%A8-with
+でしょう;Right?, Probably, Isn't it?;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%97%E3%82%87%E3%81%86
+だろう;Right?, Probably, Isn't it?;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%8D%E3%81%86
+が有（あ）る;To be, There is;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%82%E3%82%8B
+が居（い）る;To be, There is,  To remain (in a state);N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%84%E3%82%8B
+この;This;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%93%E3%81%AE
+その;That;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%AE
+あの;That (over there);N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/%E3%81%82%E3%81%AE
+んです・のです;Explanatory, Emphasis, The fact is;N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/-%E3%82%93%E3%81%A7%E3%81%99-%E3%81%AE%E3%81%A7%E3%81%99
+い-Adjective (Past);Was, Were (Past tense);N5;3;Remaining Particles Needed in Their Basic Uses;https://bunpro.jp/grammar_points/past-tense-%E3%81%84-adjectives
+のは・のが;Verb nominalizer, The one who..., That which...;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AF
+い-Adjective + (Noun);Describing a noun;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%84-adjective-noun
+な-Adjective + (Noun);Describing a noun;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%AA-adjective-noun
+へ行（い）く;To go to, To head toward;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%B8%E3%81%84%E3%81%8F
+する;To do, To make into;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%99%E3%82%8B
+来（く）る;To come;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%8B
+る-Verb (Past);る - Verbs (Past tense);N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%82%8B-verb-past
+う-Verb (Past);う - Verbs (Past tense);N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%86-verb-past
+好（す）き;Like, Fond of;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8D
+嫌（きら）い;Dislike, Not fond of;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%8D%E3%82%89%E3%81%84
+のが好（す）き;Like doing, Love doing;N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%99%E3%81%8D
+がある + (Noun);Noun (B) that has Noun (A), Noun (B) with Noun (A);N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%82%E3%82%8B-noun
+くない;Not (Adjective);N5;4;Different Verb Forms that Will Make Use of the Particles Just Taught;https://bunpro.jp/grammar_points/negative-%E3%81%84-adjectives
+で;With, By (using);N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%A7-by
+ので;Because, So, Since, The reason being;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%A7
+から;Because, Since;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89-because
+から;From;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89
+けど;But, However;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A9-%E3%81%A0%E3%81%91%E3%81%A9
+が;But, However;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%8C-but
+る-Verb (Negative-Past);る - Verbs (Negative-past tense);N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%82%8B-verb-neg-past
+う-Verb (Negative-Past);う - Verbs (Negative-past tense);N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%86-verb-neg-past
+～て (Conjunction);And, Then (Linking events);N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/verb-%E3%81%A6
+～ている ①;Is, Am, Are (~ing);N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B1
+へ;To, Toward;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/%E3%81%B8
+～に行（い）く;To go ~, To go in order to ~;N5;5;Basic Sentence Linking Structures て;https://bunpro.jp/grammar_points/verb-%E3%81%AB%E3%81%84%E3%81%8F
+誰（だれ）;Who;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%8C
+なぜ;Why;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%9C
+どうして;Why;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6
+なんで;Why;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%93%E3%81%A7
+い-Adjective + です (Predicate);い-Adjective (Predicate);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%84-adjective-predicate
+な-Adjective + だ (Predicate);な-Adjective (Predicate);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%AA-adjective-predicate
+だった・でした;Was, Were (Past tense);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%A3%E3%81%9F-%E3%81%A7%E3%81%97%E3%81%9F
+じゃない;Is not, Isn't;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84
+じゃなかった;Was not, Wasn't;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F
+くなかった;Was not, Wasn't (Adjective);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%84-Adjective-%E3%81%8F%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F
+と;Quotation;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%A8
+って;Casual quotation;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%A6
+Verb (Non-Past);(Non-past);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/verb-non-past
+～た + (Noun);Verb modified noun, Relative clause;N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/verb-%E3%81%9F-noun
+の;Possessive use (Noun omission);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%AE-noun-ommission
+な (Prohibitive);Do not, Don't (Prohibitive);N5;6;Filling in the Knowledge Gaps of the Basics;https://bunpro.jp/grammar_points/%E3%81%AA
+だけ;Only, Just;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91
+どれ;Which (of three or more);N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A9%E3%82%8C
+どこ;Where;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93
+どの;Which (of three or more), What (kind);N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%AE
+～ている ②;State of being, Has (have) done;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B2
+～てから;Once...is done, Once...happens, After doing;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8B%E3%82%89
+～て (Sequence);And, And then, After that (sequence);N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/verb-%E3%81%A6-b
+もう;Already, Anymore;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%82%82%E3%81%86
+まだ;Still;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A0
+まだ～ていません;Still haven't done (something);N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A0-%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93
+～てもいい;It is alright/fine/okay even if, Can/may, ~ is also okay;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+たい;Want to do;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%84
+たり～たりする;Things like ~ and ~;N5;7;Slightly More Advanced Linking and Identification Phrases;https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8A-%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B
+結構（けっこう）;Quite, A lot, Fairly, Rather;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A3%E3%81%93%E3%81%86
+沢山（たくさん）;Many, A lot of, Plenty, Enough;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93
+前（まえ）に;Before, In front of;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%88%E3%81%AB
+くらい ①;About, Approximately;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%89%E3%81%841
+Noun + まで;Until, Till,  To (but no further than);N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/noun-%E3%81%BE%E3%81%A7
+Verb + まで;Until (something) happens;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/v-%E3%81%BE%E3%81%A7
+過（す）ぎる;Too much, Very;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8E%E3%82%8B
+にする;To decide on, To choose, To make something into, To view something as;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%82%8B
+になる・くなる;To become (Adjective);N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%AA%E3%82%8B-%E3%81%8F%E3%81%AA%E3%82%8B
+の中（なか）で～が一番（いちばん）;Out of ~, ~ is the best/most ~;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AA%E3%81%8B%E3%81%A7-%E3%81%8C%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93
+より～の方（ほう）が;To be more ~ than ~;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%82%88%E3%82%8A-%E3%81%AE%E3%81%BB%E3%81%86%E3%81%8C
+何（なに） + か;Something, Nothing, Anything, Not anything, Some kind of, Not any kind of;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%AB%E3%81%8B-%E3%81%AA%E3%81%AB%E3%82%82
+誰（だれ）か・どこか・誰（だれ）も・どこも;Someone, Somewhere, Not anyone, Not anywhere;N5;8;Identifying Amounts and Locations;https://bunpro.jp/grammar_points/%E8%AA%B0%E3%81%8B-%E3%81%A9%E3%81%93%E3%81%8B-%E8%AA%B0%E3%82%82-%E3%81%A9%E3%81%93%E3%82%82
+ましょう;Let's, Shall we (Polite volitional);N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%97%E3%82%87%E3%81%86
+ましょうか;Shall we, Shall I;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%81%8B
+ませんか;Won't you, Would you not, Why don't we;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
+～てもいい (Verb);It's okay to, It's alright to, Can/may;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/verb-%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+～て下（くだ）さい;Please do (Polite request);N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+～ないで下（くだ）さい;Please don't (Polite request);N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+～てはいけない;Must not, May not;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+なくてはいけない;Must do, Have to do;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+なくてはならない;Must do, Have to do;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+～た方（ほう）がいい;It'd be better to, Should do;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+ない方（ほう）がいい;It'd be better not to, Shouldn't do;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+なくちゃ・なきゃ;Must do, Have to do;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A1%E3%82%83-%E3%81%AA%E3%81%8D%E3%82%83
+や;Things like, And the like;N5;9;Suggesting and Requesting;https://bunpro.jp/grammar_points/%E3%82%84
+～たことがある;Have done before;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B
+～ている ③;Has/have done, Is ~ing (Repetition);N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B3
+～て (Adjectives and Nouns);And... (Conjunctive);N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/adjective-%E3%81%A6-noun-%E3%81%A7
+～て (Qualities and States);And..., Both and (Conjunctive);N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/adjective-%E3%81%A6-b
+のが下手（へた）;To be bad at, Poor at, Unskillful;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%B8%E3%81%9F
+のが上手（じょうず）;To be good at, Proficient;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%98%E3%82%87%E3%81%86%E3%81%9A
+(Adjective) + のは;The 'one' that... (Indefinite pronoun, Adjective nominalization);N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/adjective-%E3%81%AE-%E3%81%AF
+あげる;To give (away), To present, To provide;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%82%E3%81%92%E3%82%8B
+くれる;To give (me), To be given;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%8C%E3%82%8B
+貰（もら）う;To receive, To get, To obtain;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%82%82%E3%82%89%E3%81%86
+けれども;But, Although;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%91%E3%82%8C%E3%81%A9%E3%82%82
+つもりだ;To plan to, To intend to;N5;10;Giving, Receiving, and Describing Experiences;https://bunpro.jp/grammar_points/%E3%81%A4%E3%82%82%E3%82%8A%E3%81%A0

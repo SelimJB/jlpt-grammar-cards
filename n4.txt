@@ -1,0 +1,180 @@
+grammar_point;meaning;level;lesson_number;lesson_title;bunpro_url
+でも;Or something,  Any... (with question words), No matter (who);N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82
+～易（やす）い;Easy to, Likely to;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%82%84%E3%81%99%E3%81%84
+にくい;Difficult to, Hard to;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%8F%E3%81%84
+づらい;Hard to, Tough to, Painful to, Difficult to;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A5%E3%82%89%E3%81%84
+段々（だんだん）;Gradually, Little by little, Step by step;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%93%E3%81%A0%E3%82%93
+どんどん;Progressively, Rapidly increasing, More and more;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93
+等（ら）;We, Them, They, These, Those;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%82%89
+～ていく;To ~ and go, To go on, To start;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%8F
+～てくる;To come to, To become, To continue, To be starting to, Has been ~ing;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8B
+方（かた）;Way of ~ing, How to ~, Manner of ~ing;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%9F
+だけで;Just by, Just with;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91%E3%81%A7
+だが;But, Still, However, Nevertheless;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%8C%E3%83%BB%E3%81%A7%E3%81%99%E3%81%8C
+なくて (Sequence);To not ~ and ~, Not ~ and ~ (Conjugations);N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6-conjunction
+なくて (Reasons and Causes);Not ~ and, Not so, Because not (Examples);N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6
+ないで;Without doing, Not ~ and ~;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7
+れる・られる (Passive);Was done to ~ by ~, Done without consent, Done to one's dismay;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/Verb%5Bpassive%5D
+他動詞（たどうし）・自動詞（じどうし）;Done through action vs. occurring on its own;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/transitive-intransitive-verbs
+直（なお）す;To do over, To redo;N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8A%E3%81%99
+と言（い）う事（こと）;~ing, The ~ that ~ (Nominalization);N4;1;Ways of Doing and Being;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8
+時（とき）;When, At the time of;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8D
+まず;To start with, Firstly;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%9A
+まで;Even, To even, To the extent of;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A7
+までに;By ~, By the time that ~, Before ~;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A7%E3%81%AB
+また;Also, As well, Moreover, Again, Additionally;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%9F
+始（はじ）める;To start, To begin to;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B
+終（お）わる;To finish, To end;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%8A%E3%82%8F%E3%82%8B
+頃（ころ）;Around, About;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%94%E3%82%8D
+後（あと）で;After, Later;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%82%E3%81%A8%E3%81%A7
+～ていた;Was doing ~;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F
+に (Frequency);Times (In each time period), Every, Frequency of;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%AB-frequency
+到頭（とうとう）;Finally, After all;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%86%E3%81%A8%E3%81%86
+より;More than, Over;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%82%88%E3%82%8A
+毎（ごと）に;Each, Every;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%94%E3%81%A8%E3%81%AB
+なるべく;As ~ as possible, Wherever practicable;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F
+～る所（ところ）だ;About to, On the verge of;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A0
+のに;Despite, Although, Even though;N4;2;When and How Often;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AB-despite
+と思（おも）う;I think;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8A%E3%82%82%E3%81%86
+等（など）;Such as, Things like, Etc., And so on;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%A9
+みたい;Like, Similar to, Resembling;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%BF%E3%81%9F%E3%81%84
+こと;Converting a verb into a noun;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8
+そう;Look like, Appear, Seem, Have a feeling that;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86
+さ;Converting adjectives to nouns;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%95
+とか;Among other things, For example, Such as;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8B-%E3%81%A8%E3%81%8B
+そういう;Like that, Kind of;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%84%E3%81%86
+う・よう (Volitional);Let's, I shall (Casual volitional);N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86-%E3%81%8A%E3%81%86
+様（よう）だ;It seems that, It appears that, It looks like;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%A0
+全然（ぜんぜん）;(Not) at all;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%9C%E3%82%93%E3%81%9C%E3%82%93
+かな;I wonder;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AA
+余（あま）り～ない;Not very, Not much, Not really, Hardly;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%82%E3%81%BE%E3%82%8A-%E3%81%AA%E3%81%84
+ば;If… then, (Conditional);N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%B0
+なら;Were it, If, If it's the case, As for (Conditional);N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%89
+がる;To feel, To think, To act as if, To want, To desire;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%8C%E3%82%8B
+がする;To give off, Smell, Sound, Taste, Sensation;N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%99%E3%82%8B
+たがる;To want to (Third person);N4;3;Seems Like, Could be;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%8C%E3%82%8B
+かもしれない;Might, Maybe, Probably;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84
+みたいに;Like, Similar to, Resembling;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AB-%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA
+そうに;Seem, Look like, Sound;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%AB-%E3%81%9D%E3%81%86%E3%81%AA
+の様（よう）に;Like (Noun), Similar to (Noun);N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB-%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA
+う・よう + と思（おも）う;I think I will, I think I shall, Going to, Gonna (Volitional + と思う);N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%86-%E3%81%8A%E3%81%86%E3%81%A8%E6%80%9D%E3%81%86
+く・に;～ly (Describing verbs), Adverbs;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/describing-verbs
+にする・くする;Adjective + する, To make something/someone (more);N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%82%8B-%E3%81%8F%E3%81%99%E3%82%8B
+といい;I hope, I wish, You should, It would be good;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%84
+様（よう）になる;To reach the point that, To come to be that, To turn into;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B
+毎（まい）～の様（よう）に;Almost every ~, Nearly every ~, On a ~ basis;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%84-%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB
+じゃないか;Isn't it?, Is it not?;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B
+らしい ①;Seems like, Apparently, I heard;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%82%89%E3%81%97%E3%81%841
+～ておく;To do something in advance;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8A%E3%81%8F
+が欲（ほ）しい;To want something, To be in need of;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%BB%E3%81%97%E3%81%84
+～て欲（ほ）しい;I want you to;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84
+と聞（き）いた;I heard that;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8D%E3%81%84%E3%81%9F
+聞（き）こえる;To be audible, To sound (like), (Can) hear, To be heard;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B
+見（み）える;To be visible, To seem, To be in sight;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E8%A6%8B%E3%81%88%E3%82%8B
+出（だ）す;To suddenly begin, To start doing;N4;4;Do it Like this, Did it Like that;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%99
+代（だい）;Teens, Twenties, Thirties, 1910s, 20s/30s;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E4%BB%A3
+Number + も;Emphasis, As ~ as, Not even;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/number-%E3%82%82
+殆（ほとん）ど;Almost all, Most, Hardly any, Few (Adverbial noun);N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9
+そんな;Such a・Kind of, Something like ~;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%93%E3%81%AA-%E3%81%93%E3%82%93%E3%81%AA-%E3%81%82%E3%82%93%E3%81%AA-%E3%81%A9%E3%82%93%E3%81%AA
+各（かく）;Each, Every, Respective, Various;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E5%90%84
+以上（いじょう） ①;More than (or equal to), Over・(and) above, Any more・Greater, Exceeding;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E4%BB%A5%E4%B8%8A1
+以下（いか）;Less than (or equal to), Under・(and) below, Any less・fewer, Not exceeding;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%84%E3%81%8B
+以外（いがい）;Except・besides, Other than, With the exception of;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%84%E3%81%8C%E3%81%84
+ずっと ①;Continuously, All throughout, Entire time, Ever (since), The whole time, All the way;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%A3%E3%81%A81
+大体（だいたい）;Most・mostly, Adequately・generally, For the most part, Roughly・approximately, In the first place;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%84%E3%81%9F%E3%81%84
+の中（なか）で;In, Among, Within;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AA%E3%81%8B%E3%81%A7
+様（よう） + に・な;As・like, Just like;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB-%E3%82%88%E3%81%86%E3%81%AA
+(Amount) + は;At least, Sort of, Or so;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/number-amount-%E3%81%AF
+何（なん） + (Counter) + か;Some, Several, A few;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%93-counter-%E3%81%8B
+真（ま）っ;Completely, Exactly, Right;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E7%9C%9F(%E3%81%A3)
+(Number) + しか〜ない;No more than, Not exceeding, As few as・as little as, Only;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/number-%E3%81%97%E3%81%8B-%E3%81%AA%E3%81%84
+は～の一（ひと）つだ;〜 is one of (many) 〜;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%AF-%E3%81%AE%E4%B8%80%E3%81%A4%E3%81%A0
+ない～はない;There is not ~ that is not/does not;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84-%E3%81%AF%E3%81%AA%E3%81%84
+少（すこ）しも～ない;Not even a little, Not at all, Not in the least, Never;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%99%E3%81%93%E3%81%97%E3%82%82-%E3%81%AA%E3%81%84
+少（すく）なくない;Quite a few, Quite a lot, Many, Not a few, Not a little;N4;5;Amounts/Counting;https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8F%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%84
+場合（ばあい）は;In the event of, In the case of;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%82%E3%81%84%E3%81%AF
+～て (Casual Request);Please do for me (Casual request);N4;6;て the Day Away;https://bunpro.jp/grammar_points/verb%E3%81%A6-request
+～てよかった;I'm glad that;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F
+せる・させる (Causative);To make/let/have (somebody do something);N4;6;て the Day Away;https://bunpro.jp/grammar_points/causative
+と言（い）ってもいい;You could say, You might say;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+～ても・でも;Even if, Even though;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82
+～てしまう;To do something by accident, To finish completely・totally, Unfortunately;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86-%E3%81%A1%E3%82%83%E3%81%86
+～て (Reasons and Causes);And・and so, Due to, Because of, Since, Conjunctive;N4;6;て the Day Away;https://bunpro.jp/grammar_points/verb%E3%81%A6-b2
+させられる (Causative-Passive);Verbs (Causative-passive voice), To be made to do something, To be forced to do;N4;6;て the Day Away;https://bunpro.jp/grammar_points/causative-passive
+～て (Means and Manner);By, With, On, By means of, ~ing with;N4;6;て the Day Away;https://bunpro.jp/grammar_points/verb-%E3%81%A6-noun-%E3%81%A7-b
+～てある;Something is done, Has been done, Remaining state;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%82%E3%82%8B
+様（よう）に～て欲（ほ）しい;Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB-%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84
+～ている間（あいだ）に;While, During the time that ~;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B%E3%81%82%E3%81%84%E3%81%A0%E3%81%AB
+なくてもいい;Don't have to;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+～てみる;To try to;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%BF%E3%82%8B
+～てすみません;I'm sorry for;N4;6;て the Day Away;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93
+～てあげる;To do something for someone, As a favor for;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%82%E3%81%92%E3%82%8B
+～てくれる;To do something for someone (usually you);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B
+～てもらう;To get someone to do, To have someone do;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86
+なさい;Command to do;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%95%E3%81%84
+～て (Non-Sequence);Non-sequence, And, But (Contrast), Parallel action/state;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/verb%E3%81%A6-b
+ないで (Casual Request);(Please) do not (for me), Casual request;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/verb-%E3%81%AA%E3%81%84%E3%81%A7
+～てくれてありがとう;Thank you for ~ ing;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86
+～て + くれない;Won't you?, Will you?, Could you?, Can you?, Would you?;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%84-%E3%81%A6%E3%82%82%E3%82%89%E3%81%88%E3%81%AA%E3%81%84
+のだろうか;I wonder...;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B
+お～になる;To do (Honorific);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%AB%E3%81%AA%E3%82%8B
+なさる;To do (Honorific);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%95%E3%82%8B
+お～ください;Please do (Honorific);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+いらっしゃる;To be (Honorific), To come (Honorific), To go (Honorific);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B
+御座（ござ）います;To be, To exist (Polite);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99
+で御座（ござ）います;To be, Polite copula;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99
+お〜する;I humbly do, I am obliged to do, Humble speech;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%8A-%E3%81%99%E3%82%8B
+致（いた）す;To do (Humble), To venerably do;N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%84%E3%81%9F%E3%81%99
+～ていただけませんか;Won't you, Could you please (Humble request);N4;7;Let's Get Polite;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
+たら;When, From when, Just when, If;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%89
+他（ほか）に;Other, Another, Any other, Anything else, As well as, Besides, In addition;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%BB%E3%81%8B%E3%81%AB%E3%82%82-%E3%81%BB%E3%81%8B%E3%81%AB%E3%81%AF
+が必要（ひつよう）;Need, Necessary;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%B2%E3%81%A4%E3%82%88%E3%81%86
+そんなに;So (much), That much, Like that;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB
+必要（ひつよう）がある;It is necessary to;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%B2%E3%81%A4%E3%82%88%E3%81%86%E3%81%8C%E3%81%82%E3%82%8B
+例（たと）えば;For example;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0
+れる・られる (Potential);To be able, Can (Potential);N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/Verb%5Bpotential%5D
+んだけど;But..., And...;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9-%E3%82%93%E3%81%A7%E3%81%99%E3%81%8C
+筈（はず）だ;Bound to (be), Expected to (be), Should be (able);N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%9A%E3%81%A0
+かどうか;Whether or not, If...or not;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B
+と;If, When, Whenever, And, [Conditional];N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%A8-conditional
+ないと;Must, Have to;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A8
+筈（はず）がない;Hardly possible, Cannot be, Highly unlikely, Improbable;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84
+しか～ない;There's only, Nothing but;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%97%E3%81%8B-%E3%81%AA%E3%81%84
+だけでなく;Not only… but also;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F
+ことが出来（でき）る;Can, Be able to;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B
+かい;Question marker;N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%84
+もし;If (For emphasis);N4;8;Possibility vs Necessity;https://bunpro.jp/grammar_points/%E3%82%82%E3%81%97
+し (Reasons);And, Giving reasons;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%97-%E3%81%97
+でできる;Made of, Made from, Produced from, Come from;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B-%E3%81%8B%E3%82%89%E3%81%A7%E3%81%8D%E3%82%8B
+ながら;While ~ing, During, As;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8C%E3%82%89
+～た所（ところ）だ;Just finished doing, Was just doing;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A0
+～ている所（ところ）だ;In the process of doing ~ right now/at this moment;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A0
+と～と、どちらが;Between ~ which one;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%A8-%E3%81%A8-%E3%81%A9%E3%81%A1%E3%82%89%E3%81%8C
+様（よう）にする;To try to, To make sure to, To endeavor to;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B
+なければいけない;Must do, Have to do;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+なければならない;Must do, Have to do;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+続（つづ）ける;To continue;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B
+様（よう）に言（い）う;To tell, request, or order to do (in such a way);N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%84%E3%81%86
+予定（よてい）だ;Plan to, Intend to;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%A6%E3%81%84%E3%81%A0
+様（よう）に祈（いの）る;Pray that/for, Hope that/for, Keep fingers crossed that;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB%E3%81%84%E3%81%AE%E3%82%8B
+～たばかり;Just did, Something just happened;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%B0%E3%81%8B%E3%82%8A
+化（か）する;-ification, -ization, To make something, To change, To become, Transform into;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E5%8C%96%E3%81%99%E3%82%8B
+命令形（めいれいけい）;(Verb)!, Do (something)!;N4;9;Do it Like this, Did it Like that - Advanced;https://bunpro.jp/grammar_points/%E5%91%BD%E4%BB%A4%E5%BD%A2
+様（よう）に;So that, In order to, In such a way that;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AB
+かしら;I wonder;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%97%E3%82%89
+らしい ②;typical of, -ish・like, appropriate for, becoming of, befitting;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%82%89%E3%81%97%E3%81%842
+にみえる;To look, To seem, To appear;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%BF%E3%81%88%E3%82%8B
+と見（み）える;It seems that, It can be deduced, One can conclude that;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%BF%E3%81%88%E3%82%8B
+風（ふう）;-style, Way, Fashion;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E9%A2%A8
+が見（み）られる;Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%BF%E3%82%89%E3%82%8C%E3%82%8B
+に気（き）が付（つ）く;To notice (that), To realize (that);N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%8D%E3%81%8C%E3%81%A4%E3%81%8F
+でも〜でも;Whether ~ or, Neither ~ or;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82-%E3%81%A7%E3%82%82
+それに;And, Besides, Moreover, In addition;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C%E3%81%AB
+それで;Because of that, So?, And then?, Therefore, With that;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C%E3%81%A7
+(Question-Phrase) + か;Including questions within sentences;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/question-phrase-%E3%81%8B
+それでも;But still, And yet, Even so, Nevertheless;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82
+たらどう;Why don't you...?, What if you did...?;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%89%E3%81%A9%E3%81%86
+と考（かんが）えられている;Is considered, Is thought of as;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8B%E3%82%93%E3%81%8C%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B
+とされている;To be considered, To be deemed, Be regarded as, Be accepted as, To be said, To be accredited with;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B
+と言（い）われている;It is said that, Is known as;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B
+ば良（よ）かった;Should have, I wish, It would have been better to;N4;10;Seems Like, Could Be - Advanced;https://bunpro.jp/grammar_points/%E3%81%B0%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F
