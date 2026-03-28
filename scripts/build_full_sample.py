@@ -19,6 +19,7 @@ FIELDS = [
     "lesson_title",
     "bunpro_url",
     "structure",
+    "structure_display",
     "part_of_speech",
     "word_type",
     "register",
@@ -169,6 +170,59 @@ def build_structure(reviewable: dict) -> str:
     return " | ".join(dict.fromkeys(parts))
 
 
+def build_structure_display(structure: str) -> str:
+    if not structure:
+        return ""
+    structure = structure.replace(" || ", " |  | ")
+    tokens = [token.strip() for token in structure.split(" | ")]
+    section_labels = {"Negative:", "Examples:", "Exceptions:", "Note:"}
+    blocks = []
+    current_label = ""
+    current_lines = []
+
+    def flush_block():
+        nonlocal current_label, current_lines
+        if current_label or current_lines:
+            blocks.append((current_label, current_lines))
+        current_label = ""
+        current_lines = []
+
+    for token in tokens:
+        if not token:
+            flush_block()
+            continue
+
+        numbered = re.match(r"^\((\d+)\)\s*(.+)$", token)
+        is_note = False
+        if numbered:
+            token = f"{numbered.group(1)}. {numbered.group(2)}"
+            is_note = True
+
+        if token in section_labels:
+            flush_block()
+            current_label = token[:-1]
+            continue
+
+        current_lines.append((token, is_note))
+
+    flush_block()
+
+    rendered_blocks = []
+    for label, lines in blocks:
+        if not lines and not label:
+            continue
+        parts = ['<div class="structure-block">']
+        if label:
+            parts.append(f'<div class="structure-block-label">{label}</div>')
+        for line, is_note in lines:
+            line_class = "structure-note" if is_note else "structure-line"
+            parts.append(f'<div class="{line_class}">{line}</div>')
+        parts.append("</div>")
+        rendered_blocks.append("".join(parts))
+
+    return "".join(rendered_blocks)
+
+
 def extract_about(writeup_html: str, fallback: str) -> str:
     if writeup_html:
         without_cautions = CAUTION_SECTION_RE.sub("", writeup_html)
@@ -313,6 +367,7 @@ def enrich_row(source_row: dict) -> dict:
         "lesson_title": source_row["lesson_title"],
         "bunpro_url": source_row["bunpro_url"],
         "structure": build_structure(reviewable),
+        "structure_display": "",
         "part_of_speech": single_line(
             reviewable.get("part_of_speech_translation")
             or reviewable.get("part_of_speech")
@@ -335,6 +390,7 @@ def enrich_row(source_row: dict) -> dict:
         "antonyms": relationships["antonym"],
         "related": relationships["related"],
     }
+    row["structure_display"] = build_structure_display(row["structure"])
     return {field: safe_cell(row[field]) for field in FIELDS}
 
 
@@ -356,6 +412,11 @@ def parse_args() -> argparse.Namespace:
         default=0.15,
         help="Delay between requests in seconds",
     )
+    parser.add_argument(
+        "--local-refresh",
+        action="store_true",
+        help="Recompute generated display fields from an existing enriched dataset without HTTP requests",
+    )
     return parser.parse_args()
 
 
@@ -369,13 +430,22 @@ def main() -> int:
         reader = csv.DictReader(handle, delimiter=";")
         source_rows = list(reader)
 
-    enriched_rows = []
-    total = len(source_rows)
-    for index, source_row in enumerate(source_rows, start=1):
-        enriched_rows.append(enrich_row(source_row))
-        if index % 20 == 0 or index == total:
-            print(f"processed {index}/{total}", file=sys.stderr)
-        time.sleep(args.sleep)
+    if args.local_refresh:
+        enriched_rows = []
+        for row in source_rows:
+            refreshed = {field: safe_cell(row.get(field, "")) for field in FIELDS}
+            refreshed["structure_display"] = safe_cell(
+                build_structure_display(row.get("structure", ""))
+            )
+            enriched_rows.append(refreshed)
+    else:
+        enriched_rows = []
+        total = len(source_rows)
+        for index, source_row in enumerate(source_rows, start=1):
+            enriched_rows.append(enrich_row(source_row))
+            if index % 20 == 0 or index == total:
+                print(f"processed {index}/{total}", file=sys.stderr)
+            time.sleep(args.sleep)
 
     enriched_rows = add_hints(enriched_rows)
 

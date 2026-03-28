@@ -60,8 +60,9 @@
     font-size: 16px;
     line-height: 1.5;
     color: #777;
-    margin: 0 auto 8px;
-    max-width: 30em;
+    margin: 8px auto 8px;
+    max-width: 34em;
+    text-align: left;
 }
 
 .chips {
@@ -97,17 +98,45 @@
     color: #222;
 }
 
+.structure-block + .structure-block {
+    margin-top: 12px;
+}
+
+.structure-block-label {
+    font-size: 11px;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+}
+
+.structure-line {
+    margin-top: 2px;
+}
+
+.structure-note {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #666;
+}
+
 .example-jp {
     font-size: 24px;
-    line-height: 1.45;
+    line-height: 1.5;
     color: #111;
-    margin-bottom: 8px;
+    margin: 4px 0 10px;
+    font-weight: 500;
 }
 
 .example-en {
-    font-size: 15px;
-    line-height: 1.5;
-    color: #666;
+    font-size: 16px;
+    line-height: 1.55;
+    color: #555;
+}
+
+.example-section {
+    margin-top: 24px;
+    margin-bottom: 20px;
 }
 
 .footer {

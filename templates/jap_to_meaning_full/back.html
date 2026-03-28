@@ -16,12 +16,20 @@
   {{#register}}<span class="chip">{{register}}</span>{{/register}}
 </div>
 
-{{#structure}}
+{{#example_jp_1}}
+<div class="section example-section">
+  <div class="section-title">Example</div>
+  <div class="example-jp">{{example_jp_1}}</div>
+  {{#example_en_1}}<div class="example-en">{{example_en_1}}</div>{{/example_en_1}}
+</div>
+{{/example_jp_1}}
+
+{{#structure_display}}
 <div class="section">
   <div class="section-title">Structure</div>
-  <div class="section-body">{{structure}}</div>
+  <div class="section-body">{{structure_display}}</div>
 </div>
-{{/structure}}
+{{/structure_display}}
 
 {{#about}}
 <div class="section">
@@ -36,14 +44,6 @@
   <div class="section-body">{{cautions}}</div>
 </div>
 {{/cautions}}
-
-{{#example_jp_1}}
-<div class="section">
-  <div class="section-title">Example</div>
-  <div class="example-jp">{{example_jp_1}}</div>
-  {{#example_en_1}}<div class="example-en">{{example_en_1}}</div>{{/example_en_1}}
-</div>
-{{/example_jp_1}}
 
 <!--
 {{#synonyms}}
