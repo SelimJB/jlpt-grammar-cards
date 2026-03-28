@@ -29,6 +29,8 @@ FIELDS = [
     "synonyms",
     "antonyms",
     "related",
+    "meaning_hint",
+    "jp_hint",
 ]
 
 USER_AGENT = "Mozilla/5.0 (compatible; Codex/1.0; +https://openai.com/)"
@@ -40,6 +42,57 @@ TAG_RE = re.compile(r"<[^>]+>")
 CAUTION_SECTION_RE = re.compile(r"<section class='caution'>.*?</section>", re.S)
 PARAGRAPH_RE = re.compile(r"<p>(.*?)</p>", re.S)
 STUDY_QUESTION_REF_RE = re.compile(r'data-study-question="(\d+)"')
+
+MEANING_HINT_OVERRIDES = {
+    ("To be, Is", "だ"): "Standard copula",
+    ("To be, Is", "です"): "Polite copula",
+    ("This", "これ"): "Standalone pronoun",
+    ("This", "この"): "Before a noun",
+    ("That", "それ"): "Standalone pronoun",
+    ("That", "その"): "Before a noun",
+    ("That (over there)", "あれ"): "Standalone pronoun",
+    ("That (over there)", "あの"): "Before a noun",
+    ("Will/Does/Do (not)", "る-Verb (Negative)"): "Ichidan negative",
+    ("Will/Does/Do (not)", "う-Verb (Negative)"): "Godan negative",
+    ("Right?, Probably, Isn't it?", "でしょう"): "Polite / softer",
+    ("Right?, Probably, Isn't it?", "だろう"): "Plain / rougher",
+    ("Was, Were (Past tense)", "い-Adjective (Past)"): "Adjective past",
+    ("Was, Were (Past tense)", "だった・でした"): "Copula past",
+    ("Describing a noun", "い-Adjective + (Noun)"): "i-adjective modifier",
+    ("Describing a noun", "な-Adjective + (Noun)"): "na-adjective modifier",
+    ("But, However", "けど"): "Casual linker",
+    ("But, However", "が"): "Clause linker",
+    ("Why", "なぜ"): "Neutral why",
+    ("Why", "どうして"): "How come / why",
+    ("Why", "なんで"): "Casual why",
+    ("Must do, Have to do", "なくてはいけない"): "Standard obligation",
+    ("Must do, Have to do", "なくてはならない"): "More formal obligation",
+    ("Must do, Have to do", "なくちゃ・なきゃ"): "Casual obligation",
+    ("Like, Similar to, Resembling", "みたい"): "Predicate / noun-like",
+    ("Like, Similar to, Resembling", "みたいに"): "Adverbial use",
+    ("I wonder", "かな"): "Neutral / casual",
+    ("I wonder", "かしら"): "Soft / feminine",
+    ("To do (Honorific)", "お～になる"): "Regular honorific pattern",
+    ("To do (Honorific)", "なさる"): "Honorific verb",
+    ("Must do, Have to do", "なければいけない"): "Standard obligation",
+    ("Must do, Have to do", "なければならない"): "More formal obligation",
+}
+
+JP_HINT_OVERRIDES = {
+    ("の", "Indicates possession"): "Noun A の Noun B",
+    ("の", "Possessive use (Noun omission)"): "Noun + の (omitted noun)",
+    ("か", "Question marking particle"): "Phrase + か",
+    ("か", "Or"): "A か B",
+    ("が", "Subject marking particle, Identification particle"): "Subject + が",
+    ("が", "But, However"): "Clause + が",
+    ("と", "And"): "Noun + と + Noun",
+    ("と", "With"): "Noun + と + Verb",
+    ("と", "Quotation"): "Phrase + と + Verb",
+    ("で", "At, In"): "Place + で",
+    ("で", "With, By (using)"): "Tool / method + で",
+    ("から", "Because, Since"): "Clause + から",
+    ("から", "From"): "Place / time + から",
+}
 
 
 def clean_text(value: str) -> str:
@@ -192,6 +245,51 @@ def extract_relationships(related_contents: list, current_title: str) -> dict:
     return result
 
 
+def fallback_meaning_hint(row: dict) -> str:
+    parts = []
+    for key in ("register", "part_of_speech", "word_type"):
+        value = (row.get(key) or "").strip()
+        if value and value not in parts:
+            parts.append(value)
+    return " | ".join(parts[:2])
+
+
+def fallback_jp_hint(row: dict) -> str:
+    structure = (row.get("structure") or "").strip()
+    if not structure:
+        return ""
+    return structure.split(" | ")[0].strip()
+
+
+def add_hints(rows: list[dict]) -> list[dict]:
+    meaning_counts = {}
+    grammar_point_counts = {}
+    for row in rows:
+        meaning_counts[row["meaning"]] = meaning_counts.get(row["meaning"], 0) + 1
+        grammar_point_counts[row["grammar_point"]] = (
+            grammar_point_counts.get(row["grammar_point"], 0) + 1
+        )
+
+    for row in rows:
+        if meaning_counts[row["meaning"]] > 1:
+            row["meaning_hint"] = MEANING_HINT_OVERRIDES.get(
+                (row["meaning"], row["grammar_point"]),
+                fallback_meaning_hint(row),
+            )
+        else:
+            row["meaning_hint"] = ""
+
+        if grammar_point_counts[row["grammar_point"]] > 1:
+            row["jp_hint"] = JP_HINT_OVERRIDES.get(
+                (row["grammar_point"], row["meaning"]),
+                fallback_jp_hint(row),
+            )
+        else:
+            row["jp_hint"] = ""
+
+    return rows
+
+
 def enrich_row(source_row: dict) -> dict:
     props = fetch_page_props(source_row["bunpro_url"])
     reviewable = props["reviewable"]
@@ -278,6 +376,8 @@ def main() -> int:
         if index % 20 == 0 or index == total:
             print(f"processed {index}/{total}", file=sys.stderr)
         time.sleep(args.sleep)
+
+    enriched_rows = add_hints(enriched_rows)
 
     with output_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=FIELDS, delimiter=";")

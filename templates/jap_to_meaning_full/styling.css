@@ -48,6 +48,14 @@
     margin: 8px 0 18px;
 }
 
+.hint {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #777;
+    margin: 0 auto 8px;
+    max-width: 30em;
+}
+
 .structure {
     font-size: 16px;
     line-height: 1.5;

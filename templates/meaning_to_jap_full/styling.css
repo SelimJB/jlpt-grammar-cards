@@ -49,6 +49,14 @@
     color: #222;
 }
 
+.hint {
+    font-size: 15px;
+    line-height: 1.5;
+    color: #777;
+    margin: 0 auto 8px;
+    max-width: 26em;
+}
+
 .meaning {
     font-size: 24px;
     line-height: 1.35;
