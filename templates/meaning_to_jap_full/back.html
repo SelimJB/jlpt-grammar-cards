@@ -1,0 +1,71 @@
+<div class="topbar">
+  <div class="level">{{level}}</div>
+</div>
+
+<div class="link-wrap">
+  <a class="bunpro-link" href="{{bunpro_url}}">link</a>
+</div>
+
+<div class="grammar-point">{{grammar_point}}</div>
+
+<div class="meaning">{{meaning}}</div>
+
+<div class="chips">
+  {{#part_of_speech}}<span class="chip">{{part_of_speech}}</span>{{/part_of_speech}}
+  {{#word_type}}<span class="chip">{{word_type}}</span>{{/word_type}}
+  {{#register}}<span class="chip">{{register}}</span>{{/register}}
+</div>
+
+{{#structure}}
+<div class="section">
+  <div class="section-title">Structure</div>
+  <div class="section-body">{{structure}}</div>
+</div>
+{{/structure}}
+
+{{#about}}
+<div class="section">
+  <div class="section-title">About</div>
+  <div class="section-body">{{about}}</div>
+</div>
+{{/about}}
+
+{{#cautions}}
+<div class="section">
+  <div class="section-title">Cautions</div>
+  <div class="section-body">{{cautions}}</div>
+</div>
+{{/cautions}}
+
+{{#example_jp_1}}
+<div class="section">
+  <div class="section-title">Example</div>
+  <div class="example-jp">{{example_jp_1}}</div>
+  {{#example_en_1}}<div class="example-en">{{example_en_1}}</div>{{/example_en_1}}
+</div>
+{{/example_jp_1}}
+
+<!--
+{{#synonyms}}
+<div class="section">
+  <div class="section-title">Synonyms</div>
+  <div class="section-body">{{synonyms}}</div>
+</div>
+{{/synonyms}}
+
+{{#antonyms}}
+<div class="section">
+  <div class="section-title">Antonyms</div>
+  <div class="section-body">{{antonyms}}</div>
+</div>
+{{/antonyms}}
+
+{{#related}}
+<div class="section">
+  <div class="section-title">Related</div>
+  <div class="section-body">{{related}}</div>
+</div>
+{{/related}}
+-->
+
+<div class="footer">{{lesson_title}}</div>

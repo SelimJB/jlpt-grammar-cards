@@ -1,0 +1,109 @@
+.card {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #111;
+    background-color: #fff;
+    padding: 18px 18px 24px;
+}
+
+.topbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.level {
+    font-size: 12px;
+    color: #999;
+    letter-spacing: 0.04em;
+}
+
+.link-wrap {
+    margin-bottom: 18px;
+}
+
+.bunpro-link {
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+}
+
+.bunpro-link:hover {
+    text-decoration: underline;
+}
+
+.grammar-point {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 600;
+    margin: 14px 0 10px;
+}
+
+.meaning {
+    font-size: 24px;
+    line-height: 1.35;
+    color: #222;
+    margin: 8px 0 18px;
+}
+
+.structure {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #777;
+    margin: 0 auto 8px;
+    max-width: 30em;
+}
+
+.chips {
+    margin: 0 0 20px;
+}
+
+.chip {
+    display: inline-block;
+    margin: 4px 4px 0;
+    padding: 4px 8px;
+    border: 1px solid #ddd;
+    border-radius: 999px;
+    font-size: 12px;
+    color: #666;
+}
+
+.section {
+    margin-top: 18px;
+    text-align: left;
+}
+
+.section-title {
+    font-size: 11px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+}
+
+.section-body {
+    font-size: 16px;
+    line-height: 1.55;
+    color: #222;
+}
+
+.example-jp {
+    font-size: 24px;
+    line-height: 1.45;
+    color: #111;
+    margin-bottom: 8px;
+}
+
+.example-en {
+    font-size: 15px;
+    line-height: 1.5;
+    color: #666;
+}
+
+.footer {
+    margin-top: 24px;
+    font-size: 12px;
+    color: #999;
+}
