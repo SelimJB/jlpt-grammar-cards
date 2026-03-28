@@ -3,6 +3,7 @@
 import csv
 import html
 import json
+import argparse
 import re
 import sys
 import time
@@ -239,10 +240,32 @@ def enrich_row(source_row: dict) -> dict:
     return {field: safe_cell(row[field]) for field in FIELDS}
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--input",
+        default="n5.txt",
+        help="Input semicolon-delimited dataset file",
+    )
+    parser.add_argument(
+        "--output",
+        default="n5_full_sample.txt",
+        help="Output semicolon-delimited enriched dataset file",
+    )
+    parser.add_argument(
+        "--sleep",
+        type=float,
+        default=0.15,
+        help="Delay between requests in seconds",
+    )
+    return parser.parse_args()
+
+
 def main() -> int:
+    args = parse_args()
     root = Path(__file__).resolve().parents[1]
-    input_path = root / "n5.txt"
-    output_path = root / "n5_full_sample.txt"
+    input_path = root / args.input
+    output_path = root / args.output
 
     with input_path.open(encoding="utf-8") as handle:
         reader = csv.DictReader(handle, delimiter=";")
@@ -254,7 +277,7 @@ def main() -> int:
         enriched_rows.append(enrich_row(source_row))
         if index % 20 == 0 or index == total:
             print(f"processed {index}/{total}", file=sys.stderr)
-        time.sleep(0.15)
+        time.sleep(args.sleep)
 
     with output_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=FIELDS, delimiter=";")
