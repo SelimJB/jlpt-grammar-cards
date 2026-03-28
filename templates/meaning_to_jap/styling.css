@@ -1,0 +1,64 @@
+.card {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #111;
+    background-color: white;
+    position: relative;
+    padding: 24px 20px 28px;
+}
+
+.level {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    font-size: 12px;
+    color: #999;
+    letter-spacing: 0.04em;
+}
+
+.link-wrap {
+    margin-top: 4px;
+    margin-bottom: 28px;
+}
+
+.bunpro-link {
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+}
+
+.bunpro-link:hover {
+    text-decoration: underline;
+}
+
+.grammar-point {
+    font-size: 42px;
+    line-height: 1.25;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.meaning-front {
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 500;
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+
+.back-footer {
+    margin-top: 36px;
+}
+
+.meaning {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 8px;
+}
+
+.meta {
+    font-size: 12px;
+    color: #999;
+}
